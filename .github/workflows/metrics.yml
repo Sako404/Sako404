@@ -1,0 +1,35 @@
+name: Metrics
+
+# Renders github-metrics.svg (embedded in README.md) using the default
+# GITHUB_TOKEN only. Deliberately restrained: base cards are disabled
+# (base: "") so no follower/star/repo counts are shown — just a
+# contribution calendar. See docs/ARCHITECTURE.md.
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily, 06:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Sako404
+          filename: github-metrics.svg
+          template: classic
+          base: ""
+          config_timezone: Europe/London
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
