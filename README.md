@@ -32,12 +32,14 @@
 ### 🔨 Currently building
 
 <!-- CURRENTLY-BUILDING:START -->
+- [openttd-blueprint](https://github.com/Sako404/openttd-blueprint) — Reproducible cross-platform OpenTTD setup for logistics, industries and transport networks.
 - [hgv-hub](https://github.com/Sako404/hgv-hub) — Working-time, pay, and EU/tachograph compliance tracking for HGV drivers — solo PWA or self-hosted with a real backend.
 <!-- CURRENTLY-BUILDING:END -->
 
 ### 🌱 Latest projects
 
 <!-- LATEST-PROJECTS:START -->
+- [openttd-blueprint](https://github.com/Sako404/openttd-blueprint) — Reproducible cross-platform OpenTTD setup for logistics, industries and transport networks.
 - [hgv-hub](https://github.com/Sako404/hgv-hub) — Working-time, pay, and EU/tachograph compliance tracking for HGV drivers — solo PWA or self-hosted with a real backend.
 - [Property-Calculator](https://github.com/Sako404/Property-Calculator) — UK Property Investment Calculator Traditional buy-to-let deal analysis focused on yield and cashflow.
 <!-- LATEST-PROJECTS:END -->
