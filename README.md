@@ -32,7 +32,7 @@
 ### 🔨 Currently building
 
 <!-- CURRENTLY-BUILDING:START -->
-- [sako-brain](https://github.com/Sako404/sako-brain) — Local-first personal knowledge and project-management CLI. Markdown files are the source of truth; the index, manifests and logs are a rebuildable cache outside your vault.
+- [sako-brain](https://github.com/Sako404/sako-brain) — SAKO Brain — Structured Augmented Knowledge Orchestrator. Open-source, local-first knowledge system for organizing projects, decisions, context and AI-assisted workflows. Markdown is the source of truth.
 - [openttd-blueprint](https://github.com/Sako404/openttd-blueprint) — Reproducible cross-platform OpenTTD setup for logistics, industries and transport networks.
 - [hgv-hub](https://github.com/Sako404/hgv-hub) — Working-time, pay, and EU/tachograph compliance tracking for HGV drivers — solo PWA or self-hosted with a real backend.
 <!-- CURRENTLY-BUILDING:END -->
@@ -40,7 +40,7 @@
 ### 🌱 Latest projects
 
 <!-- LATEST-PROJECTS:START -->
-- [sako-brain](https://github.com/Sako404/sako-brain) — Local-first personal knowledge and project-management CLI. Markdown files are the source of truth; the index, manifests and logs are a rebuildable cache outside your vault.
+- [sako-brain](https://github.com/Sako404/sako-brain) — SAKO Brain — Structured Augmented Knowledge Orchestrator. Open-source, local-first knowledge system for organizing projects, decisions, context and AI-assisted workflows. Markdown is the source of truth.
 - [openttd-blueprint](https://github.com/Sako404/openttd-blueprint) — Reproducible cross-platform OpenTTD setup for logistics, industries and transport networks.
 - [hgv-hub](https://github.com/Sako404/hgv-hub) — Working-time, pay, and EU/tachograph compliance tracking for HGV drivers — solo PWA or self-hosted with a real backend.
 - [Property-Calculator](https://github.com/Sako404/Property-Calculator) — UK Property Investment Calculator Traditional buy-to-let deal analysis focused on yield and cashflow.
