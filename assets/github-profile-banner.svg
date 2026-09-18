@@ -1,6 +1,6 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="banner-title banner-desc">
   <title id="banner-title">Marcin Sakowski</title>
-  <desc id="banner-desc">Property, systems, automation and AI. Building practical systems for real-world problems.</desc>
+  <desc id="banner-desc">Systems, automation, self-hosted infrastructure and property. Building practical systems for real problems.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -16,7 +16,7 @@
 
   <text x="80" y="130" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="1" fill="#f5f7fa">MARCIN SAKOWSKI</text>
 
-  <text x="80" y="164" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="4" fill="#00A6C8">PROPERTY &#8226; SYSTEMS &#8226; AUTOMATION &#8226; AI</text>
+  <text x="80" y="164" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="4" fill="#00A6C8">SYSTEMS &#8226; AUTOMATION &#8226; SELF-HOSTED &#8226; PROPERTY</text>
 
   <text x="80" y="198" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#8a9ead">Building practical systems for real-world problems.</text>
 </svg>
