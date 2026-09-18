@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/github-profile-banner.svg" alt="Marcin Sakowski — Property, Systems, Automation, AI" width="100%" />
+  <img src="assets/github-profile-banner.svg" alt="Marcin Sakowski — Systems, Automation, Self-Hosted, Property" width="100%" />
 </p>
 
 <h3 align="center">Marcin Sakowski</h3>
-<p align="center"><b>PROPERTY • SYSTEMS • AUTOMATION • AI</b></p>
-<p align="center">UK property investor and systems builder creating practical tools for<br/>property, automation, AI and self-hosted infrastructure.</p>
+<p align="center"><b>SYSTEMS • AUTOMATION • SELF-HOSTED • PROPERTY</b></p>
+<p align="center">I build practical systems around real problems — software,<br/>automation and self-hosted infrastructure, with a long-term focus on UK property.</p>
 
 <p align="center">
   <a href="https://marcinsakowski.com"><img src="https://img.shields.io/badge/Website-0b1118?style=flat-square&logoColor=00A6C8" alt="Website" /></a>
@@ -24,7 +24,7 @@
 
 ### What I build
 
-- 🏠 **Property Technology** — deal analysis, lead generation and property systems.
+- 🏠 **Property tools** — deal analysis that gives an honest "no" when the numbers don't work.
 - 🤖 **AI & Automation** — AI workflows, agents, n8n and business automation.
 - 🖥 **Self-Hosted Infrastructure** — TrueNAS, Docker, Cloudflare, security and monitoring.
 - 🛠 **Practical Tools** — software built to solve real problems, not to demo well.
