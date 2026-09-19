@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://marcinsakowski.com"><img src="https://img.shields.io/badge/Website-0b1118?style=flat-square&logoColor=00A6C8" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/marcin-sakowski-b5367011a/"><img src="https://img.shields.io/badge/LinkedIn-0b1118?style=flat-square&logo=linkedin&logoColor=00A6C8" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/marcin-sakowski/"><img src="https://img.shields.io/badge/LinkedIn-0b1118?style=flat-square&logo=linkedin&logoColor=00A6C8" alt="LinkedIn" /></a>
   <a href="https://youtube.com/@MarcinSakowski"><img src="https://img.shields.io/badge/YouTube-0b1118?style=flat-square&logo=youtube&logoColor=00A6C8" alt="YouTube" /></a>
   <a href="https://x.com/MarcinSakowski3"><img src="https://img.shields.io/badge/X-0b1118?style=flat-square&logo=x&logoColor=00A6C8" alt="X" /></a>
 </p>
