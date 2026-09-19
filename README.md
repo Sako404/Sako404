@@ -16,7 +16,6 @@
   <a href="https://facebook.com/marcin.sakowski.sako"><img src="https://img.shields.io/badge/Facebook-0b1118?style=flat-square&logo=facebook&logoColor=8a9ead" alt="Facebook" /></a>
   <a href="https://instagram.com/marcin.sakowski.sako"><img src="https://img.shields.io/badge/Instagram-0b1118?style=flat-square&logo=instagram&logoColor=8a9ead" alt="Instagram" /></a>
   <a href="https://tiktok.com/@marcin.sakowski"><img src="https://img.shields.io/badge/TikTok-0b1118?style=flat-square&logo=tiktok&logoColor=8a9ead" alt="TikTok" /></a>
-  <a href="https://discordapp.com/users/925567250675691520"><img src="https://img.shields.io/badge/Discord-0b1118?style=flat-square&logo=discord&logoColor=8a9ead" alt="Discord" /></a>
 </p>
 
 ---
