@@ -30,12 +30,14 @@
 ### 🔨 Currently building
 
 <!-- CURRENTLY-BUILDING:START -->
+- [SAKO-Cinema-Theme](https://github.com/Sako404/SAKO-Cinema-Theme) — Cozy family-cinema theme for Jellyfin Web: navy, violet and neon artwork. One-line CSS install, optional sidebar layout, library artwork included.
 - [sako-brain](https://github.com/Sako404/sako-brain) — SAKO Brain — Structured Augmented Knowledge Orchestrator. Open-source, local-first knowledge system for organizing projects, decisions, context and AI-assisted workflows. Markdown is the source of truth.
 <!-- CURRENTLY-BUILDING:END -->
 
 ### 🌱 Latest projects
 
 <!-- LATEST-PROJECTS:START -->
+- [SAKO-Cinema-Theme](https://github.com/Sako404/SAKO-Cinema-Theme) — Cozy family-cinema theme for Jellyfin Web: navy, violet and neon artwork. One-line CSS install, optional sidebar layout, library artwork included.
 - [sako-brain](https://github.com/Sako404/sako-brain) — SAKO Brain — Structured Augmented Knowledge Orchestrator. Open-source, local-first knowledge system for organizing projects, decisions, context and AI-assisted workflows. Markdown is the source of truth.
 - [openttd-blueprint](https://github.com/Sako404/openttd-blueprint) — Reproducible cross-platform OpenTTD setup for logistics, industries and transport networks.
 - [hgv-hub](https://github.com/Sako404/hgv-hub) — Working-time, pay, and EU/tachograph compliance tracking for HGV drivers — solo PWA or self-hosted with a real backend.
