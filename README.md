@@ -30,7 +30,6 @@
 ### 🔨 Currently building
 
 <!-- CURRENTLY-BUILDING:START -->
-- [SAKO-Cinema-Theme](https://github.com/Sako404/SAKO-Cinema-Theme) — Cozy family-cinema theme for Jellyfin Web: navy, violet and neon artwork. One-line CSS install, optional sidebar layout, library artwork included.
 - [sako-brain](https://github.com/Sako404/sako-brain) — SAKO Brain — Structured Augmented Knowledge Orchestrator. Open-source, local-first knowledge system for organizing projects, decisions, context and AI-assisted workflows. Markdown is the source of truth.
 <!-- CURRENTLY-BUILDING:END -->
 
