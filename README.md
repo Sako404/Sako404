@@ -30,6 +30,7 @@
 ### 🔨 Currently building
 
 <!-- CURRENTLY-BUILDING:START -->
+- [sako-terminal-theme](https://github.com/Sako404/sako-terminal-theme) — SAKO Terminal Theme — Fish + Starship prompt with a portable, safe installer. Build • Automate • Solve
 - [sako-brain](https://github.com/Sako404/sako-brain) — SAKO Brain — Structured Augmented Knowledge Orchestrator. Open-source, local-first knowledge system for organizing projects, decisions, context and AI-assisted workflows. Markdown is the source of truth.
 <!-- CURRENTLY-BUILDING:END -->
 
